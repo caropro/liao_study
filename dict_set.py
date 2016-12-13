@@ -51,3 +51,8 @@ print(a)
 a=tuple("deoxyribonucleicacid")
 print(a)
 #元组不会消除重复元素，但集会
+
+a=(1,[2,3])
+print(a)
+a={1,(2,3)}
+print(a)
